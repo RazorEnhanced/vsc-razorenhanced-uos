@@ -1,9 +1,9 @@
 {
-    "name": "uos",
-    "displayName": "UOS",
-    "description": "UOSteam Scripting Language support for Visual Studio Code",
-    "version": "0.2.1",
-    "publisher": "cesarsl",
+    "name": "uos-re",
+    "displayName": "UOS from RazorEnhanced",
+    "description": "UOSteam Scripting Language support for Visual Studio Code updated to the latests RazorEnhanced API specification",
+    "version": "0.0.1",
+    "publisher": "razorenhanced",
     "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.23.0"
@@ -41,6 +41,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/cesarsl/vsc-uosteam.git"
+        "url": "https://github.com/RazorEnhanced/vsc-uosteam-re.git"
     }
 }
