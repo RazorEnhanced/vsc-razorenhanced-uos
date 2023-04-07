@@ -1,9 +1,9 @@
 #### This extension is derived from the awesome work done by https://github.com/cesarsl/vsc-uosteam
 
 
-# UOSteam Scripting language support for Visual Studio Code update to the latest RazorEnhanced specifications.
+# RE:UOS scripting language support for Visual Studio Code
 
-Basic support for RE:UOS scripting Language.
+Basic support for UOSteam scripting Language  update to the latest RazorEnhanced specifications.
 
 ## Release Notes
 
